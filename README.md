@@ -1,0 +1,2 @@
+# The-Effect-of-Landed-Costs-on-ICT-Infrastructure--PMI--and-ICT-Pricing--CPI-
+This repository contains econometric models and time-series analyses exploring how international trade metrics, foreign exchange rates, interest rates, and consumer price indices interact with Philippine macroeconomic indicators like the PMI and Consumer Price Index using cointegration testing, ARDL bounds testing, and error-correction mechanisms.
